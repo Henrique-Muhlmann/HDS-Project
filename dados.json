@@ -1,0 +1,4804 @@
+[
+    {
+        "nome": "henrique",
+        "cardiaca": 112,
+        "oxigenacao": 98,
+        "temperatura": 37.2
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.7
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.7
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 92,
+        "temperatura": 37.0
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 109,
+        "oxigenacao": 92,
+        "temperatura": 37.4
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 68,
+        "oxigenacao": 90,
+        "temperatura": 37.1
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 93,
+        "oxigenacao": 97,
+        "temperatura": 37.3
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 99,
+        "temperatura": 37.4
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 93,
+        "oxigenacao": 100,
+        "temperatura": 36.7
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 62,
+        "oxigenacao": 100,
+        "temperatura": 36.6
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 99,
+        "temperatura": 37.2
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 101,
+        "oxigenacao": 99,
+        "temperatura": 36.62
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 98,
+        "oxigenacao": 99,
+        "temperatura": 36.56
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 93,
+        "temperatura": 36.4
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 110,
+        "oxigenacao": 91,
+        "temperatura": 36.1,
+        "horario": "2024-10-14 18:21:07"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 80,
+        "oxigenacao": 99,
+        "temperatura": 36.91,
+        "horario": "2024-10-14 18:21:09"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 98,
+        "temperatura": 36.82,
+        "horario": "2024-10-14 18:21:12"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 99,
+        "oxigenacao": 92,
+        "temperatura": 36.63,
+        "horario": "2024-10-14 18:21:14"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 93,
+        "temperatura": 36.36,
+        "horario": "2024-10-14 18:21:17"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": 100,
+        "temperatura": 37.2,
+        "horario": "2024-10-15 00:16:30"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 32.0,
+        "horario": "2024-10-15 11:01:10"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 11:27:11"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 11:27:15"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 36,
+        "horario": "2024-10-15 11:27:17"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 36,
+        "horario": "2024-10-15 11:27:20"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 36,
+        "horario": "2024-10-15 11:27:23"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 11:27:25"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 96,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 11:27:28"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 96,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 11:27:31"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 96,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 11:27:33"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 96,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 11:27:36"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 96,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 11:27:38"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 96,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 11:27:41"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 96,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 11:27:44"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 96,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 11:27:47"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 96,
+        "temperatura": 33.81,
+        "horario": "2024-10-15 11:27:50"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 33.81,
+        "horario": "2024-10-15 11:27:53"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 33.81,
+        "horario": "2024-10-15 11:27:55"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 36.72,
+        "horario": "2024-10-15 11:27:58"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 36.72,
+        "horario": "2024-10-15 11:28:00"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 36.72,
+        "horario": "2024-10-15 11:28:03"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 36.72,
+        "horario": "2024-10-15 11:28:06"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 36.72,
+        "horario": "2024-10-15 11:28:09"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 36.72,
+        "horario": "2024-10-15 11:28:12"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 36.72,
+        "horario": "2024-10-15 11:28:14"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 36.72,
+        "horario": "2024-10-15 11:28:17"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 11:28:20"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 31,
+        "oxigenacao": -999,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 11:28:22"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 31,
+        "oxigenacao": 91,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 11:28:25"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 31,
+        "oxigenacao": 91,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 11:28:28"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 31,
+        "oxigenacao": 91,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 11:28:31"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 31,
+        "oxigenacao": 91,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 11:28:34"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 31,
+        "oxigenacao": 91,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 11:28:37"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 31,
+        "oxigenacao": 91,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 11:28:39"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 31,
+        "oxigenacao": 91,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 11:28:42"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": 91,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 11:28:45"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 11:28:47"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 11:28:50"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 11:28:52"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 11:28:55"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 11:28:57"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 11:29:00"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 11:29:02"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 11:29:05"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 11:29:08"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 11:29:10"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 11:29:13"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 11:29:15"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 11:29:18"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 11:29:21"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 11:29:23"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.0,
+        "horario": "2024-10-15 11:29:26"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 36,
+        "temperatura": 34.0,
+        "horario": "2024-10-15 11:29:28"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 36,
+        "temperatura": 34.0,
+        "horario": "2024-10-15 11:29:31"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 36,
+        "temperatura": 34.0,
+        "horario": "2024-10-15 11:29:34"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 36,
+        "temperatura": 34.0,
+        "horario": "2024-10-15 11:29:36"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 36,
+        "temperatura": 34.0,
+        "horario": "2024-10-15 11:29:39"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 36,
+        "temperatura": 34.0,
+        "horario": "2024-10-15 11:29:41"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 36,
+        "temperatura": 34.0,
+        "horario": "2024-10-15 11:29:44"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 36,
+        "temperatura": 34.06,
+        "horario": "2024-10-15 11:29:46"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.06,
+        "horario": "2024-10-15 11:29:49"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.06,
+        "horario": "2024-10-15 11:29:51"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.06,
+        "horario": "2024-10-15 11:29:53"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.06,
+        "horario": "2024-10-15 11:29:56"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.06,
+        "horario": "2024-10-15 11:29:59"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.06,
+        "horario": "2024-10-15 11:30:01"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.06,
+        "horario": "2024-10-15 11:30:04"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.06,
+        "horario": "2024-10-15 11:30:06"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.06,
+        "horario": "2024-10-15 11:30:09"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.06,
+        "horario": "2024-10-15 11:30:11"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.06,
+        "horario": "2024-10-15 11:30:14"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.06,
+        "horario": "2024-10-15 11:30:17"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.06,
+        "horario": "2024-10-15 11:30:19"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.06,
+        "horario": "2024-10-15 11:30:22"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.06,
+        "horario": "2024-10-15 11:30:24"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.06,
+        "horario": "2024-10-15 11:30:27"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.13,
+        "horario": "2024-10-15 11:30:29"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.13,
+        "horario": "2024-10-15 11:30:32"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.13,
+        "horario": "2024-10-15 11:30:34"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.13,
+        "horario": "2024-10-15 11:30:37"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.13,
+        "horario": "2024-10-15 11:30:39"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.13,
+        "horario": "2024-10-15 11:30:42"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.13,
+        "horario": "2024-10-15 11:30:44"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.13,
+        "horario": "2024-10-15 11:30:47"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 34.13,
+        "horario": "2024-10-15 11:30:49"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 55,
+        "oxigenacao": -999,
+        "temperatura": 34.13,
+        "horario": "2024-10-15 11:30:52"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 98,
+        "temperatura": 34.25,
+        "horario": "2024-10-15 11:32:24"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 98,
+        "temperatura": 34.25,
+        "horario": "2024-10-15 11:32:27"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 98,
+        "temperatura": 34.25,
+        "horario": "2024-10-15 11:32:29"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 98,
+        "temperatura": 34.25,
+        "horario": "2024-10-15 11:32:32"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 98,
+        "temperatura": 34.25,
+        "horario": "2024-10-15 11:32:34"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 98,
+        "temperatura": 34.31,
+        "horario": "2024-10-15 11:32:37"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 36,
+        "temperatura": 34.31,
+        "horario": "2024-10-15 11:32:40"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 36,
+        "temperatura": 34.31,
+        "horario": "2024-10-15 11:32:42"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 36,
+        "temperatura": 34.31,
+        "horario": "2024-10-15 11:32:45"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 36,
+        "temperatura": 34.31,
+        "horario": "2024-10-15 11:32:47"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 99,
+        "temperatura": 34.44,
+        "horario": "2024-10-15 11:34:52"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 99,
+        "temperatura": 34.44,
+        "horario": "2024-10-15 11:35:05"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 99,
+        "temperatura": 34.44,
+        "horario": "2024-10-15 11:35:14"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 99,
+        "temperatura": 34.56,
+        "horario": "2024-10-15 11:35:18"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 100,
+        "temperatura": 34.56,
+        "horario": "2024-10-15 11:35:21"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 100,
+        "temperatura": 34.56,
+        "horario": "2024-10-15 11:35:23"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 48,
+        "oxigenacao": -999,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:49:09"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 48,
+        "oxigenacao": 98,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:49:12"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 48,
+        "oxigenacao": 98,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:49:15"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 48,
+        "oxigenacao": 98,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:49:17"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 48,
+        "oxigenacao": 98,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:49:20"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 48,
+        "oxigenacao": 98,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:49:22"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 48,
+        "oxigenacao": 98,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:49:25"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 48,
+        "oxigenacao": 98,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:49:28"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 60,
+        "oxigenacao": 98,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:49:30"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 60,
+        "oxigenacao": 98,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:49:33"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 60,
+        "oxigenacao": 98,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:49:35"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 60,
+        "oxigenacao": 98,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:49:38"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 60,
+        "oxigenacao": 98,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:49:40"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 60,
+        "oxigenacao": 98,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:49:43"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 60,
+        "oxigenacao": 98,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:49:46"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 60,
+        "oxigenacao": 98,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:49:49"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 60,
+        "oxigenacao": 98,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:49:52"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 75,
+        "oxigenacao": 100,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:49:54"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 75,
+        "oxigenacao": 100,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:49:57"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 75,
+        "oxigenacao": 100,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:49:59"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 75,
+        "oxigenacao": 100,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:50:02"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 75,
+        "oxigenacao": 100,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:50:04"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 75,
+        "oxigenacao": 100,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:50:07"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 75,
+        "oxigenacao": 100,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:50:09"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 75,
+        "oxigenacao": 100,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:50:12"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": 100,
+        "temperatura": 34.94,
+        "horario": "2024-10-15 11:50:15"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": -999,
+        "temperatura": 34.94,
+        "horario": "2024-10-15 11:50:17"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": -999,
+        "temperatura": 34.94,
+        "horario": "2024-10-15 11:50:20"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": -999,
+        "temperatura": 34.94,
+        "horario": "2024-10-15 11:50:22"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": -999,
+        "temperatura": 34.94,
+        "horario": "2024-10-15 11:50:25"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": -999,
+        "temperatura": 34.94,
+        "horario": "2024-10-15 11:50:27"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": -999,
+        "temperatura": 34.94,
+        "horario": "2024-10-15 11:50:30"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": -999,
+        "temperatura": 34.94,
+        "horario": "2024-10-15 11:50:33"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": -999,
+        "temperatura": 34.94,
+        "horario": "2024-10-15 11:50:35"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 57,
+        "oxigenacao": 97,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:50:38"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 57,
+        "oxigenacao": 97,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:50:40"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 57,
+        "oxigenacao": 97,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 11:50:43"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 19,
+        "oxigenacao": 99,
+        "temperatura": 35.06,
+        "horario": "2024-10-15 11:54:00"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 19,
+        "oxigenacao": 99,
+        "temperatura": 35.06,
+        "horario": "2024-10-15 11:54:02"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 19,
+        "oxigenacao": 99,
+        "temperatura": 35.06,
+        "horario": "2024-10-15 11:54:05"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 19,
+        "oxigenacao": 99,
+        "temperatura": 35.06,
+        "horario": "2024-10-15 11:54:07"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 19,
+        "oxigenacao": 99,
+        "temperatura": 35.06,
+        "horario": "2024-10-15 11:54:09"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 19,
+        "oxigenacao": 99,
+        "temperatura": 35.06,
+        "horario": "2024-10-15 11:54:11"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 19,
+        "oxigenacao": 99,
+        "temperatura": 35.06,
+        "horario": "2024-10-15 11:54:14"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 19,
+        "oxigenacao": 99,
+        "temperatura": 35.06,
+        "horario": "2024-10-15 11:54:17"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 19,
+        "oxigenacao": 99,
+        "temperatura": 35.06,
+        "horario": "2024-10-15 11:54:19"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 19,
+        "oxigenacao": 99,
+        "temperatura": 35.06,
+        "horario": "2024-10-15 11:54:22"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 19,
+        "oxigenacao": 99,
+        "temperatura": 35.06,
+        "horario": "2024-10-15 13:39:30"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 19,
+        "oxigenacao": 99,
+        "temperatura": 35.06,
+        "horario": "2024-10-15 13:39:34"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 19,
+        "oxigenacao": 99,
+        "temperatura": 35.06,
+        "horario": "2024-10-15 13:39:38"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 50,
+        "oxigenacao": 96,
+        "temperatura": 32.38,
+        "horario": "2024-10-15 17:06:24"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 50,
+        "oxigenacao": 96,
+        "temperatura": 32.38,
+        "horario": "2024-10-15 17:06:26"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 50,
+        "oxigenacao": 96,
+        "temperatura": 32.38,
+        "horario": "2024-10-15 17:06:29"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 87,
+        "oxigenacao": 96,
+        "temperatura": 32.38,
+        "horario": "2024-10-15 17:06:32"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 87,
+        "oxigenacao": 96,
+        "temperatura": 32.38,
+        "horario": "2024-10-15 17:06:34"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 87,
+        "oxigenacao": 96,
+        "temperatura": 36.76,
+        "horario": "2024-10-15 17:06:37"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 96,
+        "temperatura": 32.56,
+        "horario": "2024-10-15 17:06:40"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 91,
+        "temperatura": 32.56,
+        "horario": "2024-10-15 17:06:42"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 91,
+        "temperatura": 32.56,
+        "horario": "2024-10-15 17:06:45"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 91,
+        "temperatura": 32.56,
+        "horario": "2024-10-15 17:06:47"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 91,
+        "temperatura": 32.56,
+        "horario": "2024-10-15 17:06:50"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 91,
+        "temperatura": 32.56,
+        "horario": "2024-10-15 17:06:52"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 91,
+        "temperatura": 32.56,
+        "horario": "2024-10-15 17:06:55"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 91,
+        "temperatura": 32.56,
+        "horario": "2024-10-15 17:06:57"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 91,
+        "temperatura": 32.69,
+        "horario": "2024-10-15 17:07:00"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 91,
+        "temperatura": 32.69,
+        "horario": "2024-10-15 17:07:02"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 99,
+        "temperatura": 32.69,
+        "horario": "2024-10-15 17:07:05"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 99,
+        "temperatura": 32.69,
+        "horario": "2024-10-15 17:07:08"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 99,
+        "temperatura": 32.69,
+        "horario": "2024-10-15 17:07:10"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 99,
+        "temperatura": 32.69,
+        "horario": "2024-10-15 17:07:13"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 99,
+        "temperatura": 32.69,
+        "horario": "2024-10-15 17:07:15"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 99,
+        "temperatura": 32.69,
+        "horario": "2024-10-15 17:07:18"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 99,
+        "temperatura": 32.69,
+        "horario": "2024-10-15 17:07:20"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 99,
+        "temperatura": 32.81,
+        "horario": "2024-10-15 17:07:23"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 99,
+        "temperatura": 32.81,
+        "horario": "2024-10-15 17:07:26"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 99,
+        "temperatura": 32.81,
+        "horario": "2024-10-15 17:07:28"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 99,
+        "temperatura": 32.81,
+        "horario": "2024-10-15 17:07:31"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 99,
+        "temperatura": 32.81,
+        "horario": "2024-10-15 17:07:33"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 99,
+        "temperatura": 32.81,
+        "horario": "2024-10-15 17:07:36"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 99,
+        "temperatura": 32.81,
+        "horario": "2024-10-15 17:07:39"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 99,
+        "temperatura": 32.81,
+        "horario": "2024-10-15 17:07:41"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 99,
+        "temperatura": 32.94,
+        "horario": "2024-10-15 17:07:44"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 22,
+        "oxigenacao": 99,
+        "temperatura": 32.94,
+        "horario": "2024-10-15 17:07:46"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 22,
+        "oxigenacao": 99,
+        "temperatura": 32.94,
+        "horario": "2024-10-15 17:07:49"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 22,
+        "oxigenacao": 99,
+        "temperatura": 32.94,
+        "horario": "2024-10-15 17:07:51"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 22,
+        "oxigenacao": 99,
+        "temperatura": 32.94,
+        "horario": "2024-10-15 17:07:54"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 22,
+        "oxigenacao": 99,
+        "temperatura": 32.94,
+        "horario": "2024-10-15 17:07:57"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 22,
+        "oxigenacao": 99,
+        "temperatura": 32.94,
+        "horario": "2024-10-15 17:08:00"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 93,
+        "temperatura": 33.31,
+        "horario": "2024-10-15 17:09:03"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 9,
+        "oxigenacao": 99,
+        "temperatura": 33.5,
+        "horario": "2024-10-15 17:10:17"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 99,
+        "oxigenacao": 9,
+        "temperatura": 33.31,
+        "horario": "2024-10-15 17:10:20"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 10,
+        "oxigenacao": 94,
+        "temperatura": 33.31,
+        "horario": "2024-10-15 17:10:22"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 10,
+        "oxigenacao": 94,
+        "temperatura": 33.31,
+        "horario": "2024-10-15 17:10:25"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 80,
+        "oxigenacao": 94,
+        "temperatura": 33.31,
+        "horario": "2024-10-15 17:10:28"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 80,
+        "oxigenacao": 94,
+        "temperatura": 33.31,
+        "horario": "2024-10-15 17:10:30"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 80,
+        "oxigenacao": 94,
+        "temperatura": 33.31,
+        "horario": "2024-10-15 17:10:33"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 80,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:10:35"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 70,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:10:38"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 10,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:10:41"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 10,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:10:43"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 10,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:10:46"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 10,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:10:48"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 90,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:10:51"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 70,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:10:53"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 80,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:10:56"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 80,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:10:59"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 80,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:11:01"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 8,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:11:04"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:11:06"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:11:09"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:11:12"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:11:15"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:11:17"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:11:20"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:11:22"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:11:25"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:11:27"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:11:30"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:11:33"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:11:35"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:11:38"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:11:40"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:11:43"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:11:45"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": 94,
+        "temperatura": 36.67,
+        "horario": "2024-10-15 17:11:48"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 80,
+        "temperatura": 38.19,
+        "horario": "2024-10-15 17:15:33"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 80,
+        "temperatura": 38.19,
+        "horario": "2024-10-15 17:15:35"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 80,
+        "temperatura": 32.19,
+        "horario": "2024-10-15 17:15:38"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 80,
+        "temperatura": 32.19,
+        "horario": "2024-10-15 17:15:41"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 80,
+        "temperatura": 32.19,
+        "horario": "2024-10-15 17:15:43"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 80,
+        "temperatura": 32.19,
+        "horario": "2024-10-15 17:15:46"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 80,
+        "temperatura": 32.19,
+        "horario": "2024-10-15 17:15:48"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 80,
+        "temperatura": 32.19,
+        "horario": "2024-10-15 17:15:51"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 80,
+        "temperatura": 32.19,
+        "horario": "2024-10-15 17:15:53"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 80,
+        "temperatura": 32.19,
+        "horario": "2024-10-15 17:15:56"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 80,
+        "temperatura": 32.19,
+        "horario": "2024-10-15 17:15:58"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 80,
+        "temperatura": 32.19,
+        "horario": "2024-10-15 17:16:01"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 80,
+        "temperatura": 32.19,
+        "horario": "2024-10-15 17:16:04"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 80,
+        "temperatura": 32.19,
+        "horario": "2024-10-15 17:16:06"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 80,
+        "temperatura": 32.19,
+        "horario": "2024-10-15 17:16:09"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 80,
+        "temperatura": 32.19,
+        "horario": "2024-10-15 17:16:11"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 80,
+        "temperatura": 32.19,
+        "horario": "2024-10-15 17:16:14"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 96,
+        "temperatura": 33.44,
+        "horario": "2024-10-15 17:20:21"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 96,
+        "temperatura": 33.56,
+        "horario": "2024-10-15 17:20:24"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 95,
+        "temperatura": 33.56,
+        "horario": "2024-10-15 17:20:26"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 95,
+        "temperatura": 33.56,
+        "horario": "2024-10-15 17:20:29"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 95,
+        "temperatura": 33.56,
+        "horario": "2024-10-15 17:20:32"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 95,
+        "temperatura": 33.56,
+        "horario": "2024-10-15 17:20:34"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 95,
+        "temperatura": 33.56,
+        "horario": "2024-10-15 17:20:37"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 56,
+        "oxigenacao": 95,
+        "temperatura": 33.56,
+        "horario": "2024-10-15 17:20:39"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 59,
+        "oxigenacao": 95,
+        "temperatura": 33.56,
+        "horario": "2024-10-15 17:20:42"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 59,
+        "oxigenacao": 95,
+        "temperatura": 33.63,
+        "horario": "2024-10-15 17:20:44"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 70,
+        "oxigenacao": 93,
+        "temperatura": 33.63,
+        "horario": "2024-10-15 17:20:47"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 70,
+        "oxigenacao": 93,
+        "temperatura": 33.63,
+        "horario": "2024-10-15 17:20:49"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 70,
+        "oxigenacao": 93,
+        "temperatura": 33.63,
+        "horario": "2024-10-15 17:20:52"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 70,
+        "oxigenacao": 93,
+        "temperatura": 33.63,
+        "horario": "2024-10-15 17:20:54"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 70,
+        "oxigenacao": 93,
+        "temperatura": 33.63,
+        "horario": "2024-10-15 17:20:57"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 79,
+        "oxigenacao": 93,
+        "temperatura": 33.63,
+        "horario": "2024-10-15 17:20:59"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 93,
+        "temperatura": 33.63,
+        "horario": "2024-10-15 17:21:02"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 93,
+        "temperatura": 33.63,
+        "horario": "2024-10-15 17:21:04"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 71,
+        "oxigenacao": 93,
+        "temperatura": 33.69,
+        "horario": "2024-10-15 17:21:07"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 71,
+        "oxigenacao": 70,
+        "temperatura": 33.69,
+        "horario": "2024-10-15 17:21:09"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 71,
+        "oxigenacao": 70,
+        "temperatura": 33.69,
+        "horario": "2024-10-15 17:21:12"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 71,
+        "oxigenacao": 70,
+        "temperatura": 33.69,
+        "horario": "2024-10-15 17:21:14"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 71,
+        "oxigenacao": 70,
+        "temperatura": 33.69,
+        "horario": "2024-10-15 17:21:17"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 71,
+        "oxigenacao": 70,
+        "temperatura": 33.69,
+        "horario": "2024-10-15 17:21:19"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 71,
+        "oxigenacao": 70,
+        "temperatura": 33.69,
+        "horario": "2024-10-15 17:21:22"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 71,
+        "oxigenacao": 70,
+        "temperatura": 33.69,
+        "horario": "2024-10-15 17:21:24"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 71,
+        "oxigenacao": 70,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 17:21:27"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 92,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 17:21:30"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 92,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 17:21:32"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 92,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 17:21:35"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 92,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 17:21:37"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 92,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 17:21:40"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 92,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 17:21:42"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 92,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 17:21:45"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 115,
+        "oxigenacao": 92,
+        "temperatura": 33.81,
+        "horario": "2024-10-15 17:21:47"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 75,
+        "oxigenacao": 91,
+        "temperatura": 33.81,
+        "horario": "2024-10-15 17:21:50"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 75,
+        "oxigenacao": 91,
+        "temperatura": 33.81,
+        "horario": "2024-10-15 17:21:52"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 75,
+        "oxigenacao": 91,
+        "temperatura": 33.81,
+        "horario": "2024-10-15 17:21:55"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 75,
+        "oxigenacao": 91,
+        "temperatura": 33.81,
+        "horario": "2024-10-15 17:21:57"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 75,
+        "oxigenacao": 91,
+        "temperatura": 33.81,
+        "horario": "2024-10-15 17:22:00"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 75,
+        "oxigenacao": 91,
+        "temperatura": 33.81,
+        "horario": "2024-10-15 17:22:03"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 75,
+        "oxigenacao": 91,
+        "temperatura": 33.81,
+        "horario": "2024-10-15 17:22:05"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 75,
+        "oxigenacao": 91,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 17:22:08"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 65,
+        "oxigenacao": 65,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 17:22:10"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 65,
+        "oxigenacao": 65,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 17:22:13"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 65,
+        "oxigenacao": 65,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 17:22:15"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 65,
+        "oxigenacao": 65,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 17:22:18"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 65,
+        "oxigenacao": 65,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 17:22:20"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 65,
+        "oxigenacao": 65,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 17:22:23"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 65,
+        "oxigenacao": 65,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 17:22:26"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 65,
+        "oxigenacao": 65,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 17:22:28"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 93,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 17:22:31"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 93,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 17:22:33"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 93,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 17:22:36"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 93,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 17:22:38"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 93,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 17:22:41"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 93,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 17:22:43"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 93,
+        "temperatura": 33.94,
+        "horario": "2024-10-15 17:22:46"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 93,
+        "temperatura": 33.81,
+        "horario": "2024-10-15 17:22:48"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 74,
+        "temperatura": 33.81,
+        "horario": "2024-10-15 17:22:51"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 74,
+        "temperatura": 33.81,
+        "horario": "2024-10-15 17:22:53"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 74,
+        "temperatura": 33.81,
+        "horario": "2024-10-15 17:22:56"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 74,
+        "temperatura": 33.81,
+        "horario": "2024-10-15 17:22:58"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 74,
+        "temperatura": 33.81,
+        "horario": "2024-10-15 17:23:01"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 74,
+        "temperatura": 33.81,
+        "horario": "2024-10-15 17:23:03"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 74,
+        "temperatura": 33.81,
+        "horario": "2024-10-15 17:23:06"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 74,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 17:23:08"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 79,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 17:23:11"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 79,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 17:23:13"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 79,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 17:23:16"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 79,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 17:23:19"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 79,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 17:23:21"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 79,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 17:23:24"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 79,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 17:23:26"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 83,
+        "oxigenacao": 79,
+        "temperatura": 33.75,
+        "horario": "2024-10-15 17:23:29"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 68,
+        "oxigenacao": 54,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 17:23:31"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 68,
+        "oxigenacao": 54,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 17:23:34"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 68,
+        "oxigenacao": 54,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 17:23:37"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 68,
+        "oxigenacao": 54,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 17:23:39"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 68,
+        "oxigenacao": 54,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 17:23:42"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 68,
+        "oxigenacao": 54,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 17:23:44"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 68,
+        "oxigenacao": 54,
+        "temperatura": 33.88,
+        "horario": "2024-10-15 17:23:47"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 68,
+        "oxigenacao": 54,
+        "temperatura": 34.0,
+        "horario": "2024-10-15 17:23:49"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 51,
+        "oxigenacao": 92,
+        "temperatura": 34.0,
+        "horario": "2024-10-15 17:23:52"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 51,
+        "oxigenacao": 92,
+        "temperatura": 34.0,
+        "horario": "2024-10-15 17:23:55"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 51,
+        "oxigenacao": 92,
+        "temperatura": 34.0,
+        "horario": "2024-10-15 17:23:57"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 51,
+        "oxigenacao": 92,
+        "temperatura": 34.0,
+        "horario": "2024-10-15 17:24:00"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 51,
+        "oxigenacao": 92,
+        "temperatura": 34.0,
+        "horario": "2024-10-15 17:24:02"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 51,
+        "oxigenacao": 92,
+        "temperatura": 34.0,
+        "horario": "2024-10-15 17:24:05"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 51,
+        "oxigenacao": 92,
+        "temperatura": 34.0,
+        "horario": "2024-10-15 17:24:07"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 150,
+        "oxigenacao": -999,
+        "temperatura": 34.44,
+        "horario": "2024-10-15 17:25:06"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 150,
+        "oxigenacao": -999,
+        "temperatura": 34.44,
+        "horario": "2024-10-15 17:25:08"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 150,
+        "oxigenacao": -999,
+        "temperatura": 34.44,
+        "horario": "2024-10-15 17:25:11"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 150,
+        "oxigenacao": -999,
+        "temperatura": 34.56,
+        "horario": "2024-10-15 17:25:13"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 150,
+        "oxigenacao": 86,
+        "temperatura": 34.56,
+        "horario": "2024-10-15 17:25:16"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 150,
+        "oxigenacao": 86,
+        "temperatura": 34.56,
+        "horario": "2024-10-15 17:25:18"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 150,
+        "oxigenacao": 86,
+        "temperatura": 34.56,
+        "horario": "2024-10-15 17:25:21"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 150,
+        "oxigenacao": 86,
+        "temperatura": 34.56,
+        "horario": "2024-10-15 17:25:23"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 150,
+        "oxigenacao": 86,
+        "temperatura": 34.56,
+        "horario": "2024-10-15 17:25:26"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 150,
+        "oxigenacao": 86,
+        "temperatura": 34.56,
+        "horario": "2024-10-15 17:25:29"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 150,
+        "oxigenacao": 86,
+        "temperatura": 34.56,
+        "horario": "2024-10-15 17:25:31"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 86,
+        "temperatura": 34.63,
+        "horario": "2024-10-15 17:25:34"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 99,
+        "temperatura": 34.63,
+        "horario": "2024-10-15 17:25:36"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 99,
+        "temperatura": 34.63,
+        "horario": "2024-10-15 17:25:39"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 99,
+        "temperatura": 34.63,
+        "horario": "2024-10-15 17:25:42"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 99,
+        "temperatura": 34.63,
+        "horario": "2024-10-15 17:25:44"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 99,
+        "temperatura": 34.63,
+        "horario": "2024-10-15 17:25:47"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 99,
+        "temperatura": 34.63,
+        "horario": "2024-10-15 17:25:49"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 99,
+        "temperatura": 34.63,
+        "horario": "2024-10-15 17:25:52"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 166,
+        "oxigenacao": 75,
+        "temperatura": 34.75,
+        "horario": "2024-10-15 17:26:00"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 166,
+        "oxigenacao": 75,
+        "temperatura": 34.75,
+        "horario": "2024-10-15 17:26:03"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 166,
+        "oxigenacao": 75,
+        "temperatura": 34.75,
+        "horario": "2024-10-15 17:26:05"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 166,
+        "oxigenacao": 75,
+        "temperatura": 34.75,
+        "horario": "2024-10-15 17:26:08"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 166,
+        "oxigenacao": 75,
+        "temperatura": 34.75,
+        "horario": "2024-10-15 17:26:10"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 166,
+        "oxigenacao": 75,
+        "temperatura": 34.75,
+        "horario": "2024-10-15 17:26:13"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": 75,
+        "temperatura": 34.81,
+        "horario": "2024-10-15 17:26:16"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": 83,
+        "temperatura": 34.81,
+        "horario": "2024-10-15 17:26:18"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": 83,
+        "temperatura": 34.81,
+        "horario": "2024-10-15 17:26:21"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": 83,
+        "temperatura": 34.81,
+        "horario": "2024-10-15 17:26:23"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": 83,
+        "temperatura": 34.81,
+        "horario": "2024-10-15 17:26:26"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": 83,
+        "temperatura": 34.81,
+        "horario": "2024-10-15 17:26:28"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": 83,
+        "temperatura": 34.81,
+        "horario": "2024-10-15 17:26:31"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": 83,
+        "temperatura": 34.81,
+        "horario": "2024-10-15 17:26:33"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": 83,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 17:26:36"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": 78,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 17:26:38"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": 78,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 17:26:41"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": 78,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 17:26:43"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": 78,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 17:26:46"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": 78,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 17:26:48"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": 78,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 17:26:51"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": 78,
+        "temperatura": 34.88,
+        "horario": "2024-10-15 17:26:54"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": 78,
+        "temperatura": 34.94,
+        "horario": "2024-10-15 17:26:56"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 86,
+        "temperatura": 34.94,
+        "horario": "2024-10-15 17:26:59"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 86,
+        "temperatura": 34.94,
+        "horario": "2024-10-15 17:27:01"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 86,
+        "temperatura": 34.94,
+        "horario": "2024-10-15 17:27:04"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 86,
+        "temperatura": 34.94,
+        "horario": "2024-10-15 17:27:07"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 86,
+        "temperatura": 34.94,
+        "horario": "2024-10-15 17:27:09"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 86,
+        "temperatura": 34.94,
+        "horario": "2024-10-15 17:27:12"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 150,
+        "oxigenacao": 99,
+        "temperatura": 35.38,
+        "horario": "2024-10-15 17:29:50"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 150,
+        "oxigenacao": 99,
+        "temperatura": 35.38,
+        "horario": "2024-10-15 17:29:53"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 150,
+        "oxigenacao": 99,
+        "temperatura": 35.38,
+        "horario": "2024-10-15 17:29:55"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 150,
+        "oxigenacao": 99,
+        "temperatura": 35.38,
+        "horario": "2024-10-15 17:29:58"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 150,
+        "oxigenacao": 99,
+        "temperatura": 35.44,
+        "horario": "2024-10-15 17:30:00"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 25,
+        "oxigenacao": 86,
+        "temperatura": 35.44,
+        "horario": "2024-10-15 17:30:03"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 25,
+        "oxigenacao": 86,
+        "temperatura": 35.44,
+        "horario": "2024-10-15 17:30:06"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 25,
+        "oxigenacao": 86,
+        "temperatura": 35.44,
+        "horario": "2024-10-15 17:30:08"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 25,
+        "oxigenacao": 86,
+        "temperatura": 35.44,
+        "horario": "2024-10-15 17:30:11"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 25,
+        "oxigenacao": 86,
+        "temperatura": 35.44,
+        "horario": "2024-10-15 17:30:14"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 25,
+        "oxigenacao": 86,
+        "temperatura": 35.44,
+        "horario": "2024-10-15 17:30:16"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 25,
+        "oxigenacao": 86,
+        "temperatura": 35.44,
+        "horario": "2024-10-15 17:30:19"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 25,
+        "oxigenacao": 86,
+        "temperatura": 35.5,
+        "horario": "2024-10-15 17:30:21"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": -999,
+        "temperatura": 35.5,
+        "horario": "2024-10-15 17:30:24"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": -999,
+        "temperatura": 35.5,
+        "horario": "2024-10-15 17:30:26"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": -999,
+        "temperatura": 35.5,
+        "horario": "2024-10-15 17:30:29"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": -999,
+        "temperatura": 35.5,
+        "horario": "2024-10-15 17:30:31"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": -999,
+        "temperatura": 35.5,
+        "horario": "2024-10-15 17:30:34"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": -999,
+        "temperatura": 35.5,
+        "horario": "2024-10-15 17:30:37"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": -999,
+        "temperatura": 35.5,
+        "horario": "2024-10-15 17:30:39"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": -999,
+        "temperatura": 35.5,
+        "horario": "2024-10-15 17:30:42"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": 62,
+        "temperatura": 35.5,
+        "horario": "2024-10-15 17:30:44"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": 62,
+        "temperatura": 35.5,
+        "horario": "2024-10-15 17:30:47"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": 62,
+        "temperatura": 35.5,
+        "horario": "2024-10-15 17:30:50"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": 62,
+        "temperatura": 35.5,
+        "horario": "2024-10-15 17:30:52"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": 62,
+        "temperatura": 35.5,
+        "horario": "2024-10-15 17:30:55"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": 62,
+        "temperatura": 35.5,
+        "horario": "2024-10-15 17:30:57"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 62,
+        "temperatura": 35.56,
+        "horario": "2024-10-15 17:31:08"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": -999,
+        "temperatura": 35.56,
+        "horario": "2024-10-15 17:31:10"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": -999,
+        "temperatura": 35.56,
+        "horario": "2024-10-15 17:31:13"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": -999,
+        "temperatura": 35.56,
+        "horario": "2024-10-15 17:31:15"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": -999,
+        "temperatura": 35.56,
+        "horario": "2024-10-15 17:31:18"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": -999,
+        "temperatura": 35.56,
+        "horario": "2024-10-15 17:31:21"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": -999,
+        "temperatura": 35.56,
+        "horario": "2024-10-15 17:31:23"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 26,
+        "oxigenacao": 100,
+        "temperatura": 35.63,
+        "horario": "2024-10-15 17:32:02"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 26,
+        "oxigenacao": 100,
+        "temperatura": 35.63,
+        "horario": "2024-10-15 17:32:05"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 26,
+        "oxigenacao": 100,
+        "temperatura": 35.63,
+        "horario": "2024-10-15 17:32:07"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 26,
+        "oxigenacao": 100,
+        "temperatura": 35.63,
+        "horario": "2024-10-15 17:32:10"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 26,
+        "oxigenacao": 100,
+        "temperatura": 35.69,
+        "horario": "2024-10-15 17:32:13"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 35.69,
+        "horario": "2024-10-15 17:32:15"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 35.69,
+        "horario": "2024-10-15 17:32:18"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 35.69,
+        "horario": "2024-10-15 17:32:20"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 35.69,
+        "horario": "2024-10-15 17:32:23"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 35.69,
+        "horario": "2024-10-15 17:32:26"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 35.69,
+        "horario": "2024-10-15 17:32:28"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 35.69,
+        "horario": "2024-10-15 17:32:31"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 21,
+        "oxigenacao": -999,
+        "temperatura": 35.69,
+        "horario": "2024-10-15 17:32:33"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 21,
+        "oxigenacao": 94,
+        "temperatura": 35.69,
+        "horario": "2024-10-15 17:32:36"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 21,
+        "oxigenacao": 94,
+        "temperatura": 35.69,
+        "horario": "2024-10-15 17:32:38"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 21,
+        "oxigenacao": 94,
+        "temperatura": 35.69,
+        "horario": "2024-10-15 17:32:41"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 21,
+        "oxigenacao": 94,
+        "temperatura": 35.69,
+        "horario": "2024-10-15 17:32:44"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 21,
+        "oxigenacao": 94,
+        "temperatura": 35.69,
+        "horario": "2024-10-15 17:32:50"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 21,
+        "oxigenacao": 94,
+        "temperatura": 35.75,
+        "horario": "2024-10-15 17:32:53"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 57,
+        "oxigenacao": 100,
+        "temperatura": 35.75,
+        "horario": "2024-10-15 17:32:56"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 57,
+        "oxigenacao": 100,
+        "temperatura": 35.75,
+        "horario": "2024-10-15 17:32:58"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 57,
+        "oxigenacao": 100,
+        "temperatura": 35.75,
+        "horario": "2024-10-15 17:33:01"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 57,
+        "oxigenacao": 100,
+        "temperatura": 35.75,
+        "horario": "2024-10-15 17:33:03"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 57,
+        "oxigenacao": 100,
+        "temperatura": 35.75,
+        "horario": "2024-10-15 17:33:06"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 57,
+        "oxigenacao": 100,
+        "temperatura": 35.75,
+        "horario": "2024-10-15 17:33:08"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 57,
+        "oxigenacao": 100,
+        "temperatura": 35.75,
+        "horario": "2024-10-15 17:33:11"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 57,
+        "oxigenacao": 100,
+        "temperatura": 35.81,
+        "horario": "2024-10-15 17:33:14"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 60,
+        "oxigenacao": -999,
+        "temperatura": 35.81,
+        "horario": "2024-10-15 17:33:16"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 60,
+        "oxigenacao": -999,
+        "temperatura": 35.81,
+        "horario": "2024-10-15 17:33:19"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 60,
+        "oxigenacao": -999,
+        "temperatura": 35.81,
+        "horario": "2024-10-15 17:33:21"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 60,
+        "oxigenacao": -999,
+        "temperatura": 35.81,
+        "horario": "2024-10-15 17:33:24"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 60,
+        "oxigenacao": -999,
+        "temperatura": 35.81,
+        "horario": "2024-10-15 17:33:27"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 60,
+        "oxigenacao": -999,
+        "temperatura": 35.81,
+        "horario": "2024-10-15 17:33:29"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 60,
+        "oxigenacao": -999,
+        "temperatura": 35.81,
+        "horario": "2024-10-15 17:33:32"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 60,
+        "oxigenacao": -999,
+        "temperatura": 35.81,
+        "horario": "2024-10-15 17:33:34"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 35.88,
+        "horario": "2024-10-15 17:33:55"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 20,
+        "oxigenacao": 94,
+        "temperatura": 35.88,
+        "horario": "2024-10-15 17:33:57"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 20,
+        "oxigenacao": 94,
+        "temperatura": 35.88,
+        "horario": "2024-10-15 17:34:00"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 20,
+        "oxigenacao": 94,
+        "temperatura": 35.88,
+        "horario": "2024-10-15 17:34:03"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 20,
+        "oxigenacao": 94,
+        "temperatura": 35.88,
+        "horario": "2024-10-15 17:34:05"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 20,
+        "oxigenacao": 94,
+        "temperatura": 35.88,
+        "horario": "2024-10-15 17:34:08"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 100,
+        "oxigenacao": -999,
+        "temperatura": 35.94,
+        "horario": "2024-10-15 17:34:58"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 35.94,
+        "horario": "2024-10-15 17:35:01"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 35.94,
+        "horario": "2024-10-15 17:35:03"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 35.94,
+        "horario": "2024-10-15 17:35:06"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 35.94,
+        "horario": "2024-10-15 17:35:08"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 35.94,
+        "horario": "2024-10-15 17:35:11"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 35.94,
+        "horario": "2024-10-15 17:35:13"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 35.94,
+        "horario": "2024-10-15 17:35:16"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:35:19"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:35:21"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:35:24"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:35:26"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:35:29"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:35:32"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:35:34"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": -999,
+        "oxigenacao": -999,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:35:37"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": -999,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:35:39"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": 2,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:35:42"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": 92,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:35:44"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": 92,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:35:47"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": 92,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:35:49"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": 92,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:35:52"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": 92,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:35:54"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 125,
+        "oxigenacao": 92,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:35:57"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 166,
+        "oxigenacao": 92,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:36:00"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 166,
+        "oxigenacao": 94,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:36:02"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 166,
+        "oxigenacao": 94,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:36:05"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 166,
+        "oxigenacao": 94,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:36:07"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 166,
+        "oxigenacao": 94,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:36:10"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 166,
+        "oxigenacao": 94,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:36:13"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 166,
+        "oxigenacao": 94,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:36:15"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 166,
+        "oxigenacao": 94,
+        "temperatura": 36.0,
+        "horario": "2024-10-15 17:36:18"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 94,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:36:20"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:43:23"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:43:26"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:43:28"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:43:31"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:43:34"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:43:36"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:43:39"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:43:42"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:43:44"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 37.06,
+        "horario": "2024-10-15 17:43:47"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 37.06,
+        "horario": "2024-10-15 17:43:49"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 37.06,
+        "horario": "2024-10-15 17:43:52"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 38.06,
+        "horario": "2024-10-15 17:43:54"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 38.06,
+        "horario": "2024-10-15 17:43:57"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.96,
+        "horario": "2024-10-15 17:44:00"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:02"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:05"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:08"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:10"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:13"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:15"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:18"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:20"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:23"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:26"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:28"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:31"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:33"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:36"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 90,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:38"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:41"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 85,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:43"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 86,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:46"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 86,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:49"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 86,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:51"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 78,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:54"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:57"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 87,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:44:59"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 86,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:49:11"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 80,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:49:13"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 80,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:49:16"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 86,
+        "oxigenacao": 100,
+        "temperatura": 36.96,
+        "horario": "2024-10-15 17:49:19"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.96,
+        "horario": "2024-10-15 17:49:21"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.76,
+        "horario": "2024-10-15 17:49:24"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.56,
+        "horario": "2024-10-15 17:49:27"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.86,
+        "horario": "2024-10-15 17:49:29"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.9,
+        "horario": "2024-10-15 17:49:32"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.86,
+        "horario": "2024-10-15 17:49:35"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.86,
+        "horario": "2024-10-15 17:49:37"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.86,
+        "horario": "2024-10-15 17:49:40"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 90,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:49:42"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 90,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:49:45"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 89,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:49:48"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 86,
+        "oxigenacao": 80,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:49:50"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 86,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:49:53"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 96,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:49:55"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 56,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:49:58"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 76,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:50:00"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 86,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:50:03"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 36,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:50:06"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:50:08"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:50:11"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 136,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:50:13"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 69,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:50:16"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 70,
+        "oxigenacao": 100,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:50:19"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 19,
+        "oxigenacao": 99,
+        "temperatura": 36.06,
+        "horario": "2024-10-15 17:50:21"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 69,
+        "oxigenacao": 99,
+        "temperatura": 36.46,
+        "horario": "2024-10-15 17:50:24"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 88,
+        "oxigenacao": 99,
+        "temperatura": 36.46,
+        "horario": "2024-10-15 17:50:26"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 109,
+        "oxigenacao": 99,
+        "temperatura": 36.46,
+        "horario": "2024-10-15 17:50:29"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 99,
+        "oxigenacao": 99,
+        "temperatura": 36.76,
+        "horario": "2024-10-15 17:55:13"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 109,
+        "oxigenacao": 99,
+        "temperatura": 36.96,
+        "horario": "2024-10-15 17:55:15"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 110,
+        "oxigenacao": 96,
+        "temperatura": 37.46,
+        "horario": "2024-10-15 17:55:18"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 109,
+        "oxigenacao": 99,
+        "temperatura": 36.46,
+        "horario": "2024-10-15 17:55:21"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 109,
+        "oxigenacao": 99,
+        "temperatura": 36.46,
+        "horario": "2024-10-15 17:55:23"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 109,
+        "oxigenacao": 99,
+        "temperatura": 36.46,
+        "horario": "2024-10-15 17:55:26"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 109,
+        "oxigenacao": 99,
+        "temperatura": 36.46,
+        "horario": "2024-10-15 17:55:31"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 109,
+        "oxigenacao": 99,
+        "temperatura": 36.46,
+        "horario": "2024-10-15 17:55:34"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 109,
+        "oxigenacao": 99,
+        "temperatura": 36.46,
+        "horario": "2024-10-15 17:55:36"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 102,
+        "oxigenacao": 99,
+        "temperatura": 36.87,
+        "horario": "2024-10-26 00:37:05"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 102,
+        "oxigenacao": 99,
+        "temperatura": 36.87,
+        "horario": "2024-10-26 00:37:07"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 130,
+        "oxigenacao": 99,
+        "temperatura": 36.87,
+        "horario": "2024-10-26 00:53:52"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 130,
+        "oxigenacao": 99,
+        "temperatura": 36.87,
+        "horario": "2024-10-26 00:53:55"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 130,
+        "oxigenacao": 99,
+        "temperatura": 36.87,
+        "horario": "2024-10-26 00:53:57"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 130,
+        "oxigenacao": 99,
+        "temperatura": 36.87,
+        "horario": "2024-10-26 00:54:00"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 102,
+        "oxigenacao": 99,
+        "temperatura": 36.87,
+        "horario": "2024-10-26 00:54:02"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 102,
+        "oxigenacao": 99,
+        "temperatura": 36.87,
+        "horario": "2024-10-26 00:54:05"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 187,
+        "oxigenacao": 35,
+        "temperatura": 32.0,
+        "horario": "2024-10-26 13:03:10"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 187,
+        "oxigenacao": 35,
+        "temperatura": 32.0,
+        "horario": "2024-10-26 13:03:13"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 90,
+        "temperatura": 36.6,
+        "horario": "2024-10-26 13:03:33"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 90,
+        "temperatura": 36.6,
+        "horario": "2024-10-26 13:03:35"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 90,
+        "temperatura": 36.6,
+        "horario": "2024-10-26 13:03:38"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 90,
+        "temperatura": 36.6,
+        "horario": "2024-10-26 13:03:43"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 90,
+        "temperatura": 36.6,
+        "horario": "2024-10-26 13:03:46"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 90,
+        "temperatura": 36.6,
+        "horario": "2024-10-26 13:03:48"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 99,
+        "temperatura": 36.88,
+        "horario": "2024-10-28 22:40:39"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 99,
+        "temperatura": 36.88,
+        "horario": "2024-10-28 22:40:41"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 99,
+        "temperatura": 36.88,
+        "horario": "2024-11-01 15:36:02"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 99,
+        "temperatura": 36.88,
+        "horario": "2024-11-01 15:36:05"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 99,
+        "temperatura": 36.88,
+        "horario": "2024-11-01 15:36:07"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 99,
+        "temperatura": 36.88,
+        "horario": "2024-11-01 15:36:10"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 99,
+        "temperatura": 36.88,
+        "horario": "2024-11-01 15:36:12"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 101,
+        "oxigenacao": 99,
+        "temperatura": 36.88,
+        "horario": "2024-11-01 15:36:14"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 101,
+        "oxigenacao": 99,
+        "temperatura": 36.88,
+        "horario": "2024-11-01 15:36:17"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 101,
+        "oxigenacao": 99,
+        "temperatura": 36.88,
+        "horario": "2024-11-01 15:36:19"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 101,
+        "oxigenacao": 98,
+        "temperatura": 36.88,
+        "horario": "2024-11-01 15:36:22"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 101,
+        "oxigenacao": 98,
+        "temperatura": 36.88,
+        "horario": "2024-11-01 15:36:24"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 101,
+        "oxigenacao": 99,
+        "temperatura": 36.93,
+        "horario": "2024-11-01 15:39:52"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 104,
+        "oxigenacao": 99,
+        "temperatura": 36.93,
+        "horario": "2024-11-01 15:39:55"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 104,
+        "oxigenacao": 99,
+        "temperatura": 36.93,
+        "horario": "2024-11-01 15:39:57"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 104,
+        "oxigenacao": 98,
+        "temperatura": 36.93,
+        "horario": "2024-11-01 15:40:00"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 104,
+        "oxigenacao": 98,
+        "temperatura": 36.93,
+        "horario": "2024-11-01 15:40:02"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 98,
+        "temperatura": 36.93,
+        "horario": "2024-11-01 15:40:05"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 98,
+        "temperatura": 36.93,
+        "horario": "2024-11-01 15:40:07"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 98,
+        "temperatura": 36.93,
+        "horario": "2024-11-01 15:40:10"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 98,
+        "temperatura": 36.93,
+        "horario": "2024-11-01 15:40:12"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 98,
+        "temperatura": 37.03,
+        "horario": "2024-11-01 15:40:14"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 107,
+        "oxigenacao": 98,
+        "temperatura": 37.03,
+        "horario": "2024-11-01 15:40:17"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 109,
+        "oxigenacao": 98,
+        "temperatura": 37.03,
+        "horario": "2024-11-01 15:40:19"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 109,
+        "oxigenacao": 98,
+        "temperatura": 37.03,
+        "horario": "2024-11-01 15:40:22"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 16:14:36"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 16:14:39"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 16:14:41"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 16:14:44"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 16:14:46"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 16:14:49"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 16:14:52"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 16:14:54"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 19:35:13"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 19:35:16"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 19:35:19"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 19:35:22"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 19:35:26"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 19:35:28"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 19:35:31"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 21:29:49"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 21:29:51"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 21:29:54"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 21:29:56"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 21:29:58"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 21:30:01"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 21:30:03"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 21:30:06"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 21:30:08"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 21:30:11"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 21:30:13"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 21:30:17"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 21:30:20"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-13 21:30:22"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:45:52"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:45:54"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:45:57"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:45:59"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:02"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:05"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:07"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:10"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:12"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:15"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:17"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:20"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:23"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:25"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:28"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:30"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:33"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:35"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:38"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:40"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:42"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:45"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:48"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:51"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:53"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:56"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:46:58"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:47:01"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:47:03"
+    },
+    {
+        "nome": "henrique",
+        "cardiaca": 105,
+        "oxigenacao": 99,
+        "temperatura": 37.03,
+        "horario": "2024-11-20 21:47:06"
+    }
+]
